@@ -1,4 +1,6 @@
-#!/home/thiagomares/projetos/pipeline/.venv/bin/python
+#!/bin/sh
+'''exec' "/home/thiagomares/Área de Trabalho/Engenharia de dados/Pipeline Dados/PipelineDados/.venv/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
